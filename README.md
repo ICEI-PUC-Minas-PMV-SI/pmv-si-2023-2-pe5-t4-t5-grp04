@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12240398&assignment_repo_type=AssignmentRepo)
-# Título do Projeto
+# Amor de Lua
 
 `CURSO: Sistemas de Informação`
 
@@ -7,19 +7,20 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Amor de Lua é um projeto dos estudantes de Gestão de Sistemas de Informação da PUC Minas. Amor de Lua surge com o objetivo de fortalecer a rede de tutores e cuidadores de animais de Belo Horizonte. Conectando tutores a ONG`s do município e possibilitando maior interação e abrindo portas para o cuidado animal.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Breno de Rezende Moreira
+* Cássio Venuto Monteiro
+* César Henrique de Oliveira Silva
+* Francisco Vieira de Freitas Neto
+* Gabrielly Luize Arruda Fontes
+* Luís Fernando Moura Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira
 
 # Planejamento
 
