@@ -1,54 +1,34 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O problema dos animais abandonados apresenta preocupações significativas para a saúde pública, e sendo um problema social, seria importante que cada um fizesse sua parte como sociedade para minimizar essa situação. O medo de resgatar animais é uma realidade e pode ser motivado por várias razões, mas se move principalmente pela falta de conhecimento de como agir durante esse processo. A maioria das pessoas temem que os resgates sejam um compromisso de longo prazo, que exigirá muito comprometimento de tempo e recursos, e por esse motivo, acabam desistindo. Porém, existem várias estratégias eficazes que podemos usar para manifestar a importância desses atos e de como fazê-los, para beneficiar tanto os animais quanto a sociedade envolvida nesse processo de amor e cuidado. 
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+DUARTE, C. dos S.; QUEIROZ, F. K. do N. .; RODRIGUES, K. dos S.; SOUZA, O. S. de; MINGUINS, W. G.; YAMAGUCHI, H. K. de L. ABANDONO DE ANIMAIS NO BRASIL: CONSEQUÊNCIAS GERADAS Á SOCIEDADE. Revista Ensino, Saúde e Biotecnologia da Amazônia, [S. l.], v. 2, n. esp., p. 56–59, 2021. Disponível em: //periodicos.ufam.edu.br/index.php/resbam/article/view/6615. Acesso em: 26 set. 2023.
 
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+* Falta de interesse e conhecimento da sociedade nos vários aspectos em que animais abandonados ou em situação de rua afetam tanto o âmbito social quanto o ambiental;
+* Negligência atrelada a importância de adotar animais em situação de rua e/ou contribuir com os projetos de protetores independentes em contrapartida ao comércio de animais domésticos.
+* Falta de assistência financeira ou lucro para manter viável esse trabalho
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+* Criar um site capaz de levar conhecimento acerca do assunto;
+* Compreender o problema dos animais abandonados ou em situação de rua na sociedade;
+* Criar uma rede de apoio através do site para consultas e divulgação de projetos atrelados ao resgate e adoção de animais;
+* Reconhecer a importância do trabalho dos protetores independentes.
+* Montar uma rede de doação para pessoas que querem ajudar.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Historicamente, o bem estar animal nunca foi uma prioridade de órgãos governamentais. Como supracitado, esse trabalho acaba caindo nas mãos de pessoas comuns, que muitas vezes não têm plena condição ou conhecimento necessário para realizá-lo. Tendo isso em mente, pensamos em criar algo que pudesse conscientizar e juntar essas pessoas, para viabilizar o conhecimento a respeito dos resgates, cuidados e encaminhamento para adoção de animais abandonados nas ruas. Apostar na conscientização é o ponto inicial. Não podemos achar uma solução tão cedo para esse problema, mas podemos trabalhar na prevenção para que no futuro os animais sejam tratados com mais dignidade e com a importância que merecem, proporcionando vantagens para toda a população.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+* Pessoas que desejam adotar um animal;
+* Pessoas que desejam se tornar ou contribuir com protetores independentes;
+* Pessoas que não entendem a importância do cuidado animal mas que estão de * mente aberta para este assunto.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
