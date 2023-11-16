@@ -41,11 +41,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## Notícia
+## Tutor
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| Id             | Numero (Inteiro)  | Identificador único do tutor              | 1                                              |
+| nome           | Texto             | nome ou apelido do tutor                  | josé da silva                                  |
+| email          | Texto             | email do dutor para facilitar a adoção    | jose@gmail.com                                 |
+| telefone       | Texto             | telefone do tutor para facilitar a adoção | (31)9 1234-5678                                |
+
+## Pet
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único do pet                | 1                                              |
+| nome           | Texto             | nome do pet                               | marley                                         |
+| porte          | Texto             | tamanho do pet                            | médio                                          |
+| dtResgate      | Texto             | data em que o pet foi resgatado           | 16/11/2023                                     |
+| mtAdoção       | Texto             | motivo da adoção                          | Me mudei para um apartamento menor             |
 
