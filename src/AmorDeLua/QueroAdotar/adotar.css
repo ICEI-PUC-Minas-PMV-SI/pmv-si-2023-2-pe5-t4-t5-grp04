@@ -1,0 +1,182 @@
+/* geral */
+
+*{
+    margin: 0%;
+}
+/* cabeçalho */
+
+header{
+    background-color: #FFBE4A;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-shadow: 0px 1px 10px;
+}
+header div img{
+    width: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
+header ul{
+    padding: 0;
+}
+header li{
+    display: inline-block;
+    margin-left: 40px;
+}
+header div h1{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+header nav{
+    margin-top: 55px;
+    margin-right: 30px;
+}
+
+header div{
+    display: inline-flex;
+}
+header a{
+    color: black
+}
+/* corpo orientações */
+
+section#adocao h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: xx-large;
+}
+section div{
+    gap: 30px;
+    flex-wrap: wrap-reverse;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+section span{
+    color: #FFBE4A;
+}
+section div p{
+    padding: 50px;
+    font-size: x-large;
+    max-width: 600px;
+    
+}
+section div img{
+    max-width: 80%;
+    height: 100%;
+}
+section nav{
+    text-align: center;
+    margin-top: 50px;
+}
+section nav button{
+    background-color: #FFBE4A;
+    width: 297px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+/* corpo adoção */
+section h1{
+    text-align: left;
+    margin-top: 30px;
+    font-weight: 300;
+    color: #FFBE4A;
+    text-shadow: 0 0 3px #fafafa, 0 0 5px #b6b9a1;;
+    }
+    form {
+        background-color: #ffffff;
+        border-radius: 0; 
+        padding: 20px;
+        display: flex; 
+        justify-content: space-between; 
+        flex-wrap: wrap;
+        align-items: center; 
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .form-field {
+        flex: 1; 
+        margin-right: 20px; 
+    }
+    
+    .form-field:last-child {
+        margin-right: 0; 
+    }
+    
+    .form-field input, .form-field select, .form-field textarea {
+        width: 200px;
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+    
+    .form-field button {
+        background-color: #FFBE4A;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+
+
+    .grid-section {
+        display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 320px));
+    grid-gap: 10px;
+    justify-content: center;
+    }
+    
+section main{
+    
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 280px; 
+    height: 300px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+section main img {
+    margin: 5px;
+    max-width: 150px; 
+    max-height: 120px;
+}
+section main p{
+    
+    border-radius: 10px;
+    width: 200px; /* Largura fixa para os itens */
+    height: 120px;
+    margin:10px;
+}
+
+
+/* roda pé */
+footer{
+    background-color: #FFBE4A;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+footer div{
+    margin-bottom:15px;
+}
+footer div li{
+    list-style: none;
+    margin-top:5px;
+}
+footer div #siga{
+    display: flex;
+}
+footer div #siga li{
+    margin: 11px;
+}
