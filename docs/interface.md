@@ -11,7 +11,7 @@ Ainda pela home do site, o usario pode partir para as outras paginas, podendo re
 
 ## Wireframes
 
-#Protótipo inicial
+Protótipo inicial
 
 ![WireFrame Base - AmorDeLua](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/c63a69df-4b32-4c9d-94f3-9b5ecb0119d5)
 
