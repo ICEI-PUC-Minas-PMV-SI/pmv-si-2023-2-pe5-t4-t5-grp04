@@ -32,7 +32,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-003| alterar dados da conta | BAIXA | NA |
 |RF-004| logar | ALTA | Login-index.html |
 |RF-005| desloGar | ALTA | NA |
-|RF-006| instruir tutor | MEDIA | instrucoes-index.html |
+|RF-006| instruir tutor | MEDIA | Instrucoes-index.html |
 |RF-007| cadastro de pet vinculado ao tutor | ALTA | Addpet-index.html |
 |RF-008| deletar o seu pet | BAIXO | AtuPet-index.html |
 |RF-009| alterar os dados do seu pet | BAIXO | AtuPet-index.html |
