@@ -15,7 +15,6 @@ DUARTE, C. dos S.; QUEIROZ, F. K. do N. .; RODRIGUES, K. dos S.; SOUZA, O. S. de
 ## Objetivos
 
 * Criar um site capaz de conectar o Abrigo Amor de Lua a possíveis tutores;
-* Compreender o problema dos animais abandonados ou em situação de rua na sociedade;
 * Criar uma rede de apoio através do site para consultas e divulgação de projetos atrelados ao resgate e adoção de animais;
 * Reconhecer a importância do trabalho dos protetores independentes.
 * Montar uma rede de doação para pessoas que querem ajudar.
