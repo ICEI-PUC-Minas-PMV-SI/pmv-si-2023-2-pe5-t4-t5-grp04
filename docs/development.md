@@ -27,17 +27,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| cadastro de tutor | ALTA | index.html |
-|RF-002| deletar conta | BAIXA | cadastro-noticia.html |
-|RF-003| alterar dados da conta | BAIXA | cadastro-noticia.html |
-|RF-004| logar | ALTA | cadastro-noticia.html |
-|RF-005| desloGar | ALTA | cadastro-noticia.html |
-|RF-006| instruir tutor | MEDIA | cadastro-noticia.html |
-|RF-007| cadastro de pet vinculado ao tutor | ALTA | cadastro-noticia.html |
-|RF-008| deletar o seu pet | BAIXO | cadastro-noticia.html |
-|RF-009| alterar os dados do seu pet | BAIXO | cadastro-noticia.html |
-|RF-0010| visualizar apenas seus pets | MEDIA | cadastro-noticia.html |
-|RF-0011| visualizar pets para adoção | ALTA | cadastro-noticia.html |
+|RF-001| cadastro de tutor | ALTA | Cadastre-index.html |
+|RF-002| deletar conta | BAIXA | NA |
+|RF-003| alterar dados da conta | BAIXA | NA |
+|RF-004| logar | ALTA | Login-index.html |
+|RF-005| desloGar | ALTA | NA |
+|RF-006| instruir tutor | MEDIA | instrucoes-index.html |
+|RF-007| cadastro de pet vinculado ao tutor | ALTA | Addpet-index.html |
+|RF-008| deletar o seu pet | BAIXO | AtuPet-index.html |
+|RF-009| alterar os dados do seu pet | BAIXO | AtuPet-index.html |
+|RF-0010| visualizar apenas seus pets | MEDIA | MeusPets-index.html |
+|RF-0011| visualizar pets para adoção | ALTA | QueroAdotar-index.html |
 
 ## Descrição das estruturas:
 
@@ -56,5 +56,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 | nome           | Texto             | nome do pet                               | marley                                         |
 | porte          | Texto             | tamanho do pet                            | médio                                          |
 | dtResgate      | Texto             | data em que o pet foi resgatado           | 16/11/2023                                     |
-| mtAdoção       | Texto             | motivo da adoção                          | Me mudei para um apartamento menor             |
 
