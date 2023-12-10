@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Teste</title>
+</head>
+
+<body>
+    <form method="post" action="#" id="frmPessoa">
+        Nome: <input id="nome" name="nome" value=""><br><br>
+        Idade: <input id="idade" name="idade" value=""><br><br>
+        <button type="submit">Salvar</button>
+    </form>
+    <hr>
+    <table id="tblPessoas">
+        
+    </table>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            
+            const tableName = "teste-pessoas";
+            let pessoas = [];
+            
+            const salvar = () => {
+                localStorage.setItem(tableName, JSON.stringify(pessoas));
+            }
+
+            const deletar = (index) => {
+                pessoas.splice(index, 1);
+                salvar();
+                load();
+            }            
+
+            const load = () => {
+                const pessoasData = localStorage.getItem(tableName);
+                if (pessoasData) {
+                    pessoas = JSON.parse(pessoasData);
+                }
+                const tblPessoas = document.getElementById("tblPessoas");
+                tblPessoas.innerHTML = `
+                    <tr>
+                        <th>Nome</th>
+                        <th>Idade</th>
+                    </tr>                
+                `;
+                pessoas.forEach((pessoa, index) => {
+                    tblPessoas.innerHTML = tblPessoas.innerHTML + `
+                    <tr>
+                        <td>${pessoa.nome}</td>
+                        <td>${pessoa.idade}</td>
+                        <td><button class="excluir" data-index="${index}">Excluir</button></td>
+                        <td><button class="atu" data-index="${index}">atualizar</button></td>
+                    </tr>
+                `;
+                });
+                document.querySelectorAll(".excluir").forEach(excluir => {
+                    excluir.addEventListener("click", (event) => {
+                        deletar(event.target.dataset.index);
+                    })
+                })
+            };
+
+            load();
+
+            const frmPessoa = document.getElementById("frmPessoa");
+            frmPessoa.addEventListener("submit", (event) => {
+                event.preventDefault();
+                pessoas.push({
+                    nome: document.getElementById("nome").value,
+                    idade: document.getElementById("idade").value
+                });
+                salvar();
+                load();
+                document.getElementById("nome").value = "";
+                document.getElementById("idade").value = "";
+            });
+
+        //     document.querySelectorAll(".atu").forEach(atualizar => {
+        //         atualizar.addEventListener("click",(event)=> {
+        //             console.log("event.target.dataset.index")
+        //             pessoas[event.target.dataset.index] = {
+        //                 nome: document.getElementById("nome").value,
+        //                 idade: document.getElementById("idade").value
+        //             }
+        //             salvar();
+        //             load();
+        //             document.getElementById("nome").value = "";
+        //             document.getElementById("idade").value = "";
+        //             console.log("aaaaaaaaaaaaaaaa");
+        //         })
+        //     })
+
+         });
+    </script>
+</body>
+
+</html>
