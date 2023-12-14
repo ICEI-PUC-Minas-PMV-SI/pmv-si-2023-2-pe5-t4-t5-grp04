@@ -2,7 +2,7 @@
 
 Problema motivador do trabalho (‘’dores’’):
 
-• Quantidade de animais abandonados nas ruas;
+• Quantidade de animais abandonados nas ruas; <br>
 • Falta de conhecimento sobre resgates;
 • Falta de auxílio para quem já está nessa área;
 
