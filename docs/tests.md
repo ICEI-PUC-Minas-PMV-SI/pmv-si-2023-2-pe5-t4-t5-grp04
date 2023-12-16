@@ -25,20 +25,44 @@ Nesta seção o grupo deverá documentar os testes de software que verificam a c
 Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe qual o Requisito  Funcional ou não funcional que ele está verificando. Associe também a página (ou artefato) onde o teste será realizado e descreva o cenário do teste. Veja a tabela de exemplo.
 
 
-**Caso de Teste** | **CT01 - Criar conta parte 1**
+**Caso de Teste** | **CT01 - Criar conta parte**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, sobrenome, email, senha, Estado e Cidade e clica no botão "Continuar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Procedimento**  | 1) Usuário informa nome, email, senha, e telefone e clica no botão "cadastrar".<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam e tambem se um outro usuario com o mesmo email ja existe.
 **Requisitos associados** | RF-001
-**Resultado esperado** | Prosseguir para a parte 2 do cadastro.
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Resultado esperado** | Prosseguir para a a tela de login.
+**Dados de entrada** | Inserção de dados válidos no banco de dados.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT02 - Logar**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa gênero, seu tipo de usuário (cuidador ou comum), data de nascimento e clica em criar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br> 3) A aplicação armazena os dados e direciona o usuário para a tela de login.
-**Requisitos associados** | RF-001
-**Resultado esperado** | Criação de cadastro
-**Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
+**Procedimento**  | 1) Usuário informa email e senha, depois clica em logar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.
+**Requisitos associados** | RF-004
+**Resultado esperado** | Entrar na área de meus pets
+**Dados de entrada** | Inserção de dados válidos no formulário de login.
+**Resultado obtido** | Sucesso.
+Usuário informa email e senha, depois clica em logar
+**Caso de Teste** | **CT03 - Adicionar pet**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário informa nome, raca, porte, telefone, data de resgate, img e depois clica em adicionar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação insere as informações no banco de dados.
+**Requisitos associados** | RF-007
+**Resultado esperado** | Entrar na área de meus pets
+**Dados de entrada** | Inserção de dados válidos no formulário de adicionar pet.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Atualizar pet**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário informa nome, raca, porte, telefone, data de resgate, img e depois clica em atualizar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação atualiza as informações no banco de dados.
+**Requisitos associados** | RF-009
+**Resultado esperado** | Entrar na área de meus pets
+**Dados de entrada** | Atualização de dados válidos no formulário de adicionar pet.
+**Resultado obtido** | Sucesso.
+
+**Caso de Teste** | **CT04 - Atualizar pet**
+ :--------------: | ------------
+**Procedimento**  | 1) Usuário clica no botão deletar no carde referente ao pet desejado.<br>3) A aplicação deleta as informações no banco de dados.
+**Requisitos associados** | RF-008
+**Resultado esperado** | Entrar na área de meus pets
+**Dados de entrada** | Atualização de dados válidos no formulário de adicionar pet.
 **Resultado obtido** | Sucesso.
 
 ## Registro dos Testes de Software
