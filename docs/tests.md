@@ -40,7 +40,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Resultado esperado** | Entrar na área de meus pets
 **Dados de entrada** | Inserção de dados válidos no formulário de login.
 **Resultado obtido** | Sucesso.
-Usuário informa email e senha, depois clica em logar
+
 **Caso de Teste** | **CT03 - Adicionar pet**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário informa nome, raca, porte, telefone, data de resgate, img e depois clica em adicionar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação insere as informações no banco de dados.
@@ -57,7 +57,7 @@ Usuário informa email e senha, depois clica em logar
 **Dados de entrada** | Atualização de dados válidos no formulário de adicionar pet.
 **Resultado obtido** | Sucesso.
 
-**Caso de Teste** | **CT04 - Atualizar pet**
+**Caso de Teste** | **CT05 - Deletar pet**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário clica no botão deletar no carde referente ao pet desejado.<br>3) A aplicação deleta as informações no banco de dados.
 **Requisitos associados** | RF-008
