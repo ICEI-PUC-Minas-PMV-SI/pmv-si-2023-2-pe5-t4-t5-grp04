@@ -69,15 +69,27 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*TC-01 - Criar uma conta*                                         |
+|*Caso de Teste*                                 |*TC-01 - Cadastrar*                                         |
 |---|---|
-|Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Requisito Associado | RF-001 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
-|*Caso de Teste*                                 |*TC-02 - Efetuar Login (usuário autenticado)*                                         |
+|*Caso de Teste*                                 |*TC-02 -  Login*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|*Caso de Teste*                                 |*TC-03 -  Login*                                         |
+|---|---|
+|Requisito Associado | RF-007 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|*Caso de Teste*                                 |*TC-04 -  Login*                                         |
+|---|---|
+|Requisito Associado | RF-008 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|*Caso de Teste*                                 |*TC-05 -  Login*                                         |
+|---|---|
+|Requisito Associado | RF-009 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
+|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
 
 
 ## Avaliação dos Testes de Software
@@ -131,13 +143,23 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 3.17.01
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você é uma pessoa que deseja adotar um cachorro. Encontre no site um cachorro que vc se interessou
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 0:9.11 minutos                  |
-| 2       | SIM             | 5                    | 3:17.01 minutos                  |
-| **Média**     | 0%           | 0                | 1:43.06 minutos                           |
+| **Média**     | 100%           | 5                | 0:9.11 minutos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+
+
+    Comentários dos usuários: Achei intuitivo.
+
+Cenário 2: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    | 3:17.01 minutos                  |
+| **Média**     | 100%           | 5                | 3:17.01 minutos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
 
 
