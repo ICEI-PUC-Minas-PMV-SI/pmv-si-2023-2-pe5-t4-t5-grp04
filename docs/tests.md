@@ -20,7 +20,7 @@
 
 **Caso de Teste** | **CT03 - Adicionar pet**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, raca, porte, telefone, data de resgate, img e depois clica em adicionar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação insere as informações no banco de dados.
+**Procedimento**  | 1) Usuário informa nome, raça, porte, telefone, data de resgate, img e depois clica em adicionar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação insere as informações no banco de dados.
 **Requisitos associados** | RF-007
 **Resultado esperado** | Entrar na área de meus pets
 **Dados de entrada** | Inserção de dados válidos no formulário de adicionar pet.
@@ -28,7 +28,7 @@
 
 **Caso de Teste** | **CT04 - Atualizar pet**
  :--------------: | ------------
-**Procedimento**  | 1) Usuário informa nome, raca, porte, telefone, data de resgate, img e depois clica em atualizar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação atualiza as informações no banco de dados.
+**Procedimento**  | 1) Usuário informa nome, raça, porte, telefone, data de resgate, img e depois clica em atualizar.<br>2) A aplicação verifica se os dados são válidos e informa ao usuário caso não sejam.<br>3) A aplicação atualiza as informações no banco de dados.
 **Requisitos associados** | RF-009
 **Resultado esperado** | Entrar na área de meus pets
 **Dados de entrada** | Atualização de dados válidos no formulário de adicionar pet.
@@ -54,17 +54,17 @@
 |Requisito Associado | RF-004 - Usuários não autenticados podem logar para serem autenticados.|
 |Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
 
-|*Caso de Teste*                                 |*TC-03 -  Login*                                         |
+|*Caso de Teste*                                 |*TC-03 -  Adicionar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-007 - Usuários autenticados podem cadastrar um pet.|
 |Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
 
-|*Caso de Teste*                                 |*TC-04 -  Login*                                         |
+|*Caso de Teste*                                 |*TC-04 -  Atualizar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-009 - Usuários autenticados podem atualizar um pet.|
 |Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
 
-|*Caso de Teste*                                 |*TC-05 -  Login*                                         |
+|*Caso de Teste*                                 |*TC-05 -  Deletar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-008 - Usuários autenticados podem deletar um pet.|
 |Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
@@ -120,6 +120,3 @@ Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
 Contudo, tendo em vista a sugestão do usuario, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
-
-
-
