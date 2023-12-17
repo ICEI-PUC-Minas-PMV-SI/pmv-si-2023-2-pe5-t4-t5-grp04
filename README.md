@@ -11,11 +11,8 @@ Amor de Lua é um projeto dos estudantes de Gestão de Sistemas de Informação 
 
 ## Integrantes
 
-* Breno de Rezende Moreira
 * Cássio Venuto Monteiro
 * César Henrique de Oliveira Silva
-* Francisco Vieira de Freitas Neto
-* Gabrielly Luize Arruda Fontes
 * Luís Fernando Moura Santos
 
 ## Orientador
