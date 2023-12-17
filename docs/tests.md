@@ -99,7 +99,7 @@ Cenário 1: Você é uma pessoa que deseja adotar um cachorro. Encontre no site 
 
     Comentários dos usuários: Achei intuitivo.
 
-Cenário 2: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 2: Você é uma pessoa que deseja colocar um cachorro para adoção. Adicione seu pet na adoção.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
