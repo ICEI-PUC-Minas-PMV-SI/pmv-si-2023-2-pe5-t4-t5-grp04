@@ -152,7 +152,7 @@ Além disso, a aplicação obteve também uma elevada satisfação subjetiva dos
 
 Com relação ao tempo para conclusão de cada tarefa/cenário, notamos discrepância entre a média de tempo dos usuários e o tempo do especialista/desenvolvedor em todos os cenários. Tal discrepância, em certa medida, é esperada, tendo em vista que o desenvolvedor já tem prévio conhecimento de toda a interface da aplicação, do posicionamento dos elementos, lógica de organização das páginas, etc.
 
-Contudo, tendo em vista que a diferença foi relevante (por exemplo, 113 segundos — média usuários — contra 25 segundos — especialista — no cenário três), e ainda os comentários feitos por alguns usuários, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
+Contudo, tendo em vista a sugestão do usuario, entendemos haver oportunidades de melhoria na usabilidade da aplicação.
 
 
 
