@@ -137,7 +137,6 @@ Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site u
 |---------|-----------------|----------------------|---------------------------------|
 | 1       | SIM             | 5                    | 0:9.11 minutos                  |
 | 2       | SIM             | 5                    | 3:17.01 minutos                  |
-|  |  |  |  |
 | **Média**     | 0%           | 0                | 1:43.06 minutos                           |
 | **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
 
