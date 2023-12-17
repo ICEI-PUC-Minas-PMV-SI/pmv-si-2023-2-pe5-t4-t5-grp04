@@ -67,7 +67,7 @@
 |*Caso de Teste*                                 |*TC-05 -  Deletar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-008 - Usuários autenticados podem deletar um pet.|
-|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1CXs3pgoGM8lyvS5vOmssRANe2YtDLfW7/view?usp=drive_link | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1CXs3pgoGM8lyvS5vOmssRANe2YtDLfW7/view?usp=drive_link |
 
 
 ## Avaliação dos Testes de Software
