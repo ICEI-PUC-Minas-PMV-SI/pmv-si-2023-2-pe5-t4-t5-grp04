@@ -47,27 +47,27 @@
 |*Caso de Teste*                                 |*TC-01 - Cadastrar*                                         |
 |---|---|
 |Requisito Associado | RF-001 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/16pKJlgagN79jeokKYmYb0iGN_02iNdP9/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-02 -  Login*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários não autenticados podem logar para serem autenticados.|
-|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1WNNldP9A53AN9auae_T9IdZqJKX__h7B/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-03 -  Adicionar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-007 - Usuários autenticados podem cadastrar um pet.|
-|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1YfX59Ib3Fz89HTQ4ZqtVPbc-ZRciqSxb/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-04 -  Atualizar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-009 - Usuários autenticados podem atualizar um pet.|
-|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1FK3mws2IvDPIe7rmUpbQE-J0YlN7qpZ4/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*TC-05 -  Deletar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-008 - Usuários autenticados podem deletar um pet.|
-|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1CXs3pgoGM8lyvS5vOmssRANe2YtDLfW7/view?usp=drive_link | 
 
 
 ## Avaliação dos Testes de Software
