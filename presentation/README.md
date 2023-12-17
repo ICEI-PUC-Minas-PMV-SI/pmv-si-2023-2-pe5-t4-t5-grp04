@@ -1,5 +1,5 @@
 # Apresentação da solução
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/a5bd67d1-ff78-45f9-a101-18957e1cd3c7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/e3715b39-8bf4-4ce4-9c77-d6c56f6ac5b0)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/7c4a8b1b-00b7-43e1-9204-ec68110c2cca)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/a55aa25f-6982-4035-b73b-9bdcdd79b3a1)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp04/assets/55855353/4c4d0faf-818a-4b64-8aba-838c09d5fc69)
