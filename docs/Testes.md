@@ -47,27 +47,27 @@
 |*Caso de Teste*                                 |*TC-01 - Cadastrar*                                         |
 |---|---|
 |Requisito Associado | RF-001 - Usuários não autenticados podem se cadastrar para criar uma conta e serem autenticados.|
-|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
 
 |*Caso de Teste*                                 |*TC-02 -  Login*                                         |
 |---|---|
 |Requisito Associado | RF-004 - Usuários não autenticados podem logar para serem autenticados.|
-|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
 
 |*Caso de Teste*                                 |*TC-03 -  Adicionar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-007 - Usuários autenticados podem cadastrar um pet.|
-|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
 
 |*Caso de Teste*                                 |*TC-04 -  Atualizar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-009 - Usuários autenticados podem atualizar um pet.|
-|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
 
 |*Caso de Teste*                                 |*TC-05 -  Deletar Pet*                                         |
 |---|---|
 |Requisito Associado | RF-008 - Usuários autenticados podem deletar um pet.|
-|Link do vídeo do teste realizado: | adicione aqui o video ou o link: ex.: https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t | 
+|Link do vídeo do teste realizado: | https://clipchamp.com/watch/X6EunFgpTSV | 
 
 
 ## Avaliação dos Testes de Software
